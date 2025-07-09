@@ -1,13 +1,6 @@
-# A Scalable and User-Friendly Framework Integrating IoT and Digital Twins for Home Energy Management Systems
+# ENACT: Energy-aware, Actionable Twin Utilizing Prescriptive Techniques in home appliances
 Systems: 
-This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
-
-## The generated 3D House Model 
-Integration of the DT with other services and applications enabling enhanced functionalities. This is the visualization of  the thermal comfort using the PMV index. 
-
-<p align="center">
-  <img src="IntegratingIoTinDigitalTwinsforHomeEnergyManagement.gif" alt="Alt Text">
-</p>
+This repository accompanies the paper **"Energy-aware, Actionable Twin Utilizing Prescriptive Techniques in home appliances"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 
 ## Use case 1 & 4
 Emergency intervention scenario within the ENACT Digital Twin interface and Normal operation scenario for the refrigerator within the ENACT Digital Twin interface.
@@ -43,9 +36,9 @@ Offline status notification for the refrigerator within the ENACT Digital Twin.
 If you use our datasets in a scientific publication, we would appreciate using the following citations:
 ```bibtex
 @article{Stogia3DModel,
-  title={{I}ntegrating {I}o{T} in {D}igital {T}wins for {H}ome {E}nergy {M}anagement},
-  author={Myrto Stogia, Vasilis Naserentin, Asimina Dimara, Orfeas Eleftheriou, Ioannis Tzitzios, Christophoros Papaioannou, Mariya Pantusheva, Alexios Papaioannou , George Spaias, Christos-Nikolaos Anagnostopoulos, Anders Logg and Stelios Krinidis},
-  journal={Applied Science},
+  title={A Scalable and User-Friendly Framework Integrating IoT and Digital Twins for Home Energy Management Systems},
+  author={Myrto Stogia, Asimina Dimara, Christoforos Papaioannou, Orfeas Eleftheriou, Alexios Papaioannou, Stelios Krinidis and Christos-Nikolaos Anagnostopoulos},
+  journal={},
   volume={-},
   number={-},
   pages={-},
