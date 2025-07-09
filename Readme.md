@@ -36,7 +36,7 @@ Offline status notification for the refrigerator within the ENACT Digital Twin.
 If you use our datasets in a scientific publication, we would appreciate using the following citations:
 ```bibtex
 @article{Stogia3DModel,
-  title={A Scalable and User-Friendly Framework Integrating IoT and Digital Twins for Home Energy Management Systems},
+  title={ENACT: Energy-aware, Actionable Twin Utilizing Prescriptive Techniques in home appliances},
   author={Myrto Stogia, Asimina Dimara, Christoforos Papaioannou, Orfeas Eleftheriou, Alexios Papaioannou, Stelios Krinidis and Christos-Nikolaos Anagnostopoulos},
   journal={},
   volume={-},
